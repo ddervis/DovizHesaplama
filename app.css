@@ -1,0 +1,20 @@
+.row .col {
+    float: unset !important;
+}
+
+.row .col.s8 {
+    margin-right: auto !important;
+}
+
+.card .card-title {
+    font-size: 35px;
+    font-weight: 300;
+}
+
+@media only screen and (min-width: 1200px){
+
+
+html {
+    font-size: 25px;
+}
+}
